@@ -1,0 +1,17 @@
+{
+  "userProfile": {
+    "name": "Dimas Maulana",
+    "joinDate": "2025-11-11T05:15:53.006Z",
+    "totalHabits": 1,
+    "completedThisWeek": 0
+  },
+  "habits": [
+    {
+      "id": 1,
+      "name": "puasa",
+      "targetFrequency": 2,
+      "completions": [],
+      "createdAt": "2025-11-11T05:16:08.186Z"
+    }
+  ]
+}
